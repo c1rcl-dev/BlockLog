@@ -1,0 +1,4 @@
+name: BlockLog
+version: ${project.version}
+main: me.lipsticks.Main
+authors: [Lipsticks]
